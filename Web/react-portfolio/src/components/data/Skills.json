@@ -1,0 +1,59 @@
+[
+  {
+    "title": "HTML",
+    "imagesrc": "skills/HTML.jpeg"
+  },
+
+  {
+    "title": "CSS",
+    "imagesrc": "skills/CSS.png"
+  },
+  {
+    "title": "JS",
+    "imagesrc": "skills/JS.jpeg"
+  },
+  {
+    "title": "C++",
+    "imagesrc": "skills/C++.jpeg"
+  },
+  {
+    "title": "JAVA",
+    "imagesrc": "skills/JAVA.jpeg"
+  },
+  {
+    "title": "PHP",
+    "imagesrc": "skills/PHP.jpeg"
+  },
+  {
+    "title": "REACTJS",
+    "imagesrc": "skills/REACTJS.png"
+  },
+  {
+    "title": "MYSQL",
+    "imagesrc": "skills/MYSQL.jpeg"
+  },
+  {
+    "title": "BOOTSTRAP",
+    "imagesrc": "skills/BOOTSTRAP.png"
+  },
+  {
+    "title": "FIGMA",
+    "imagesrc": "skills/FIGMA.jpeg"
+  },
+  {
+    "title": "CLICKUP",
+    "imagesrc": "skills/CLICKUP.jpeg"
+  },
+  {
+    "title": "CANVA",
+    "imagesrc": "skills/CANVA.jpeg"
+  },
+  {
+    "title": "R",
+    "imagesrc": "skills/R.png"
+  },
+  {
+    "title": "TEAMGANTT",
+    "imagesrc": "skills/GANTT.jpeg"
+  }
+]

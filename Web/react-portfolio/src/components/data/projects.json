@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Bakery System",
+        "imageSrc":"projects/bakery.jpeg",
+        "description":"C++ based bakery order system.",
+        "skills":["C++"],
+        "source":"https://github.com/Dulakshi987/Bakery-System"
+    },
+    {
+        "title":"Employee Management System",
+        "imageSrc":"projects/Employee.jpeg",
+        "description":"Java based Employee Management system at Company.",
+        "skills":["JAVA"],
+        "source":"https://github.com/Dulakshi987/Employee-Automated-System"
+    },
+    {
+        "title":"Food Cafe System",
+        "imageSrc":"projects/galeery.jpeg",
+        "description":"Fullstack web based Food cafe system.",
+        "skills":["HTML5", "CSS3", "Js", "PHP","MYSQL"],
+        "source":"https://github.com/Dulakshi987/Food-Cafe--System"
+    },
+    {
+        "title":"Hotel Booking Management",
+        "imageSrc":"projects/Varsity.jpeg",
+        "description":"Fullstack web based Hotel booking system.This is  our academic final group project.",
+        "skills":["HTML5", "CSS3", "Js", "PHP","MYSQL"],
+        "source":"https://github.com/Dulakshi987"
+    }
+
+
+]
