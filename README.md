@@ -3,8 +3,13 @@
  How to open Vs code,
  
  #open terminal
+ 
  #cd path[react-portfolio]
- #npm insatall
+ 
+ #npm install
+ 
  #npm install @fontsource/roboto @fonotsource/outfit
+ 
  #npm run dev
+ 
  #view browser 
